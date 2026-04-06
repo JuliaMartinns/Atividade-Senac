@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+}
+nav{
+    background-color: #8d33a3;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+.botoes{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+body{
+    background-color: #e7bae7;
+}
+main{
+    
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: larger;
+}
+footer{
+    text-align: center;
+    
+    color: #8d33a3;
+}
