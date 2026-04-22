@@ -1,0 +1,305 @@
+body{
+    background-color: rgba(235, 235, 235, 0.829);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+.topo{
+    background-color: rgb(13, 8, 32);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+header{
+    padding-left: 40px;
+    
+}
+
+.menu{
+    padding-top: 40px;
+    padding-right: 20px;
+}
+
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.quadradao1{
+    background: linear-gradient(to right, rgb(17, 20, 63), rgb(27, 27, 94), rgb(51, 51, 158), rgb(59, 59, 190));
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+.quadrado-dir{
+background-color: white;
+color: black;
+width: 40%;
+border-radius: 17px;
+padding: 20px;
+margin: 12px;
+margin-left: 900px;
+margin-right: 200px;
+padding-top: 4px;
+margin-top: 70px;
+margin-bottom: 50px;
+
+
+}
+
+.cardzinho{
+    background-color: rgba(214, 214, 214, 0.712);
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding: 10px;
+    padding-left: 20px;
+
+    
+}
+
+.quadrado-esq{
+        margin-left: 50px;
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+
+.amarelo{
+    background-color:rgb(255, 166, 0) ;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 7px;
+    color: black;
+    
+}
+
+.transparente{
+    background-color: rgba(240, 248, 255, 0);
+    box-shadow:  rgb(255, 255, 255) 0px 0px 4px, rgb(255, 255, 255) 0px 0px 0px 1px;
+    
+    border-radius: 7px;
+    padding: 10px;
+    margin-right: 20px;
+    color: white;
+
+}
+
+.botoes{
+    display: flex;
+    
+}
+
+.botoes a{
+    text-decoration: none;
+    
+}
+
+.amarelo a{
+    color: black;
+}
+.transparente a{
+    color: white;
+}
+
+.quadradao2{
+    text-align: center;
+    justify-self: center;
+
+}
+.card-organizador{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    padding-top: 10px;
+    gap: 30px;
+
+}
+.Card1{
+    padding: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+    border-radius: 15px;
+    text-align: start;
+}
+
+.quadradao3{
+   text-align: center;
+   justify-self: center;
+
+
+}
+
+.quadro1{
+    background-color: rgb(212, 235, 255);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+ 
+}
+.quadrado{
+    background-color: rgb(225, 228, 235);
+    border-radius: 15px;
+    display: flex;
+    margin: 20px;
+}
+.quadrinho1{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+    text-align: start;
+   
+}
+
+
+.quadro2{
+    background-color: rgb(247, 247, 247);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+     box-shadow: rgb(43, 74, 212) -8px 0px 0px;
+
+}
+
+.quadro3{
+    background-color: rgb(247, 247, 247);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+  text-align: start;
+    
+}
+
+footer{
+    background-color: rgb(13, 8, 32);
+    color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+   
+
+}
+.div-footer3{
+   margin-right: 50px;
+}
+.div-footer1{
+    margin-left: 50px;
+}
+.div-footer2{
+    margin-right: 10px;
+}
+
+
+
+
+
+.titulo{
+    text-align: center;
+    background-color: rgb(55, 57, 211);
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+
+.quadradao1-servicos{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    justify-self: center;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.card-imagens{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+    
+    
+}
+
+.imagens1{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: start;
+    
+   
+}
+
+.imagens1 a{
+    text-decoration: none;
+   
+}
+
+.imagens1 img{
+    width: 100%;
+    border-radius: 15px;
+} 
+
+.Planos1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    WIDTH: 70%;
+   margin-bottom: 30px;
+   margin-left: 20px;
+
+}
+
+
+.quadradao2-servicos{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    justify-self: center;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+.organizador2{
+    
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+}
+
+.cardinhos{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(57, 41, 204) -8px 0px 0px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: start;
+    margin-top: 10px;
+}
+
+.cardinhos2{
+    background-color: rgb(248, 248, 248);
+   
+    border-radius: 15px;
+    padding: 10px;
+    text-align: start;
+    margin-top: 10px;
+}
+
+.SLA{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
