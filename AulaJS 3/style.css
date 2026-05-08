@@ -1,0 +1,118 @@
+.topo{
+    background-color: rgb(96, 14, 121);
+    text-align: center;
+    color:  rgb(255, 238, 253);
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.topo a{
+    color: rgb(253, 220, 249);
+    text-decoration: none;
+    padding: 15px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 35%;
+    
+}
+
+main{
+    text-align: center;
+}
+
+.idadee{
+    background-color: rgb(251, 235, 255);
+    text-align: center;
+    border-radius: 10px;
+    padding: 80px;
+    margin: 500px;
+    margin-top: 60px;
+}
+
+
+.Centralizarr{
+    background-color: rgb(251, 235, 255);
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 600px;
+    margin-top: 60px;
+}
+
+.Centralizarr input{
+    width: 50%;
+    padding: 10px;
+}
+
+.Centralizarr button{
+    width: 55%;
+    padding: 10px;
+    background-color: rgb(96, 14, 121);
+    color: rgb(255, 238, 253);
+    margin: 30px;
+}
+
+.Centralizarr h1{
+    margin: 40px;
+}
+
+h1{ 
+    text-align: center;
+    padding: 10px;
+}
+
+.calcula{
+    background-color: rgb(251, 235, 255);
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 600px;
+    margin-top: 60px;
+    
+}
+.calcula input{
+    margin: 15px;
+    width: 50%;
+    padding: 15px;
+}
+
+.calcula button{
+    width: 55%;
+    padding: 15px;
+    background-color: rgb(96, 14, 121);
+    color: rgb(255, 238, 253);
+    margin: 15px;
+}
+
+.avaliar{
+    background-color: rgb(251, 235, 255);
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 600px;
+    margin-top: 60px;
+}
+
+
+.avaliar button{
+    width: 55%;
+    padding: 15px;
+    background-color: rgb(96, 14, 121);
+    color: rgb(255, 238, 253);
+    margin: 15px;
+}
+.avaliar input{
+    margin: 15px;
+    width: 50%;
+    padding: 15px;
+}
+
+.avaliar h3{
+    margin: 8px;
+}
