@@ -1,0 +1,92 @@
+body{
+    background-color: #cbddd1;
+    font-family:Georgia, serif;
+}
+.planos{
+  text-align: center;
+  color: #003d20;
+  font-size: 50px;
+}
+
+.divzao{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    background-color: #457d58;
+    border-radius: 30px;
+    margin: 50px;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 50%;
+
+}
+.card img{
+    width: 75%;
+    border-radius: 20px;
+    height: 200px;
+    margin-top: -10px;
+
+}
+
+.card-gold{
+    background-color: #003d20;
+    border-radius: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    width: 25%;
+}
+
+.card-gold img{
+    width: 75%;
+    border-radius: 20px;
+    margin: 10px;
+    height: 220px;
+    margin-top: -10px;
+
+}
+
+.card p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    
+}
+.card-gold p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.card-gold h1{
+    font-size: 50px;
+    margin: 10px;
+    margin-bottom: -15px;
+}
+.card h2{
+    font-size: 30px;
+    margin: 10px;
+    margin-bottom: -15px;
+}
+.precos{
+   font-family: 'Poppins', sans-serif;
+    background-color: #cbddd1;
+    color:#003d20;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 100px 20px;
+    width: 200px;
+    justify-self: center;
+}
+
+.precos1{
+    font-family: 'Poppins', sans-serif;
+    background-color: #cbddd1;
+    color:#003d20;
+    padding: 15px;
+    margin: 2px;
+    border-radius: 100px 20px;
+    width: 200px;
+    justify-self: center;
+}
